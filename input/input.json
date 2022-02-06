@@ -1,0 +1,8 @@
+{"name": "jane doe", "rollnumber": 25, "marks": 72}
+{"name": false, "rollnumber": 25, "marks": 72}
+{"name": "jane doe", "rollnumber": "25", "marks": 72}
+{"name": "jane doe", "rollnumber": 25, "marks": "72"}
+{"name": "jane doe", "rollnumber": 25, "marks": 72}
+{"name": "jane doe", "rollnumber": 25, "marks": 72}
+{"empname": "jane doe", "rollnumber": 25, "marks": 72}
+{"empname": "jane doe", "rollnumber": "25", "marks": 72}

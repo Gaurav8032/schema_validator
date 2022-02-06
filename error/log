@@ -1,0 +1,30 @@
+logging for the run 2022-02-06 20:24:24.910773 
+============================================================== 
+False is not of type 'string'input record: {'name': False, 'rollnumber': 25, 'marks': 72} 
+'25' is not of type 'number'input record: {'name': 'jane doe', 'rollnumber': '25', 'marks': 72} 
+'72' is not of type 'number'input record: {'name': 'jane doe', 'rollnumber': 25, 'marks': '72'} 
+'25' is not of type 'number'input record: {'empname': 'jane doe', 'rollnumber': '25', 'marks': 72} 
+============================================================== 
+logging for the run 2022-02-06 20:26:07.792726 
+============================================================== 
+False is not of type 'string'input record: {'name': False, 'rollnumber': 25, 'marks': 72} 
+'25' is not of type 'number'input record: {'name': 'jane doe', 'rollnumber': '25', 'marks': 72} 
+'72' is not of type 'number'input record: {'name': 'jane doe', 'rollnumber': 25, 'marks': '72'} 
+'25' is not of type 'number'input record: {'empname': 'jane doe', 'rollnumber': '25', 'marks': 72} 
+============================================================== 
+logging for the run 2022-02-06 16:55:26.065620 
+============================================================== 
+logging for the run 2022-02-06 16:56:01.948961 
+============================================================== 
+False is not of type 'string'input record: {'name': False, 'rollnumber': 25, 'marks': 72} 
+'25' is not of type 'number'input record: {'name': 'jane doe', 'rollnumber': '25', 'marks': 72} 
+'72' is not of type 'number'input record: {'name': 'jane doe', 'rollnumber': 25, 'marks': '72'} 
+'25' is not of type 'number'input record: {'empname': 'jane doe', 'rollnumber': '25', 'marks': 72} 
+============================================================== 
+logging for the run 2022-02-06 17:00:25.471860 
+============================================================== 
+False is not of type 'string'input record: {'name': False, 'rollnumber': 25, 'marks': 72} 
+'25' is not of type 'number'input record: {'name': 'jane doe', 'rollnumber': '25', 'marks': 72} 
+'72' is not of type 'number'input record: {'name': 'jane doe', 'rollnumber': 25, 'marks': '72'} 
+'25' is not of type 'number'input record: {'empname': 'jane doe', 'rollnumber': '25', 'marks': 72} 
+============================================================== 

@@ -1,0 +1,2 @@
+studentSchema|{"type": "object","properties": {"name": {"type": "string"},"rollnumber": {"type": "number"},"marks": {"type": "number"}}}
+empSchema|{"type": "object","properties": {"empname": {"type": "string"},"rollnumber": {"type": "number"},"marks": {"type": "number"}}}
